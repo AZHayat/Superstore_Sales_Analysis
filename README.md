@@ -36,4 +36,5 @@ If you have any questions or want to collaborate, feel free to reach out!
 **Email**: a.zaenalhayat@gmail.com
 
 Feel free to explore the scripts and insights, and let's harness the power of data together! 🌟
+
 SELECT * FROM orders;
